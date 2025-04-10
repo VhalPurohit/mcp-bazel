@@ -1,4 +1,4 @@
-module github.com/aaomidi/mcp-bazel
+module github.com/VhalPurohit/mcp-bazel
 
 go 1.24
 
