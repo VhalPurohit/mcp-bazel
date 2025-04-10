@@ -1,4 +1,4 @@
-# Bazel MCP Server
+# Bazel MCP Server (forked from https://github.com/aaomidi/mcp-bazel because I'm waiting on a fix)
 
 This project provides a Model Context Protocol (MCP) server that exposes tools for interacting with Bazel projects.
 
